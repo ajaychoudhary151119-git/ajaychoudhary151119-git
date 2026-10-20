@@ -31,7 +31,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+!**(Automation isn't about replacing humans; it's about freeing human minds to solve the next big architecture challenge on AWS)**
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ajaychoudhary151119-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
